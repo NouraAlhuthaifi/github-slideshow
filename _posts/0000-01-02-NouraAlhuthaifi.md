@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Hold up! I'm a geek the big paradox"
 Use the left arrow to go back!
